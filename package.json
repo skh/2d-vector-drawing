@@ -1,0 +1,18 @@
+{
+    "name": "2d-vector-drawing",
+    "version": "1.0.0",
+    "description": "Drawing 2d elements on WebGL Canvas element in TypeScript",
+    "main": "index.html",
+    "scripts": {
+      "start": "parcel index.html --open",
+      "build": "parcel build index.html"
+    },
+    "dependencies": { "parcel-bundler": "^1.6.1" },
+    "devDependencies": {
+      "typescript": "4.2.3"
+    },
+    "resolutions": {
+      "@babel/preset-env": "7.13.8"
+    },
+    "keywords": ["typescript", "javascript"]
+  }
